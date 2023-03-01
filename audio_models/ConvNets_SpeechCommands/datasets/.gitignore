@@ -1,0 +1,7 @@
+*.tar.gz
+speech_commands/audio
+speech_commands/train
+speech_commands/valid
+speech_commands/test
+speech_commands/kaggle
+cifar-10-batches-py/

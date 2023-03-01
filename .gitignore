@@ -1,0 +1,12 @@
+/_trash
+/.vscode
+/exp
+/scripts
+__pycache__
+*.wav
+*.pt
+*.pth
+*.pkl
+*.pdf
+*.tar.gz
+test.py
